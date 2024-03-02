@@ -12,5 +12,4 @@ with three predefined levels and custom levels.
  Normal : 16x16 with 40 mines
  Expert : 30x16 with 99 mines
 
-
 Requirements : up to date KDE and QT libraries.
